@@ -1,0 +1,1 @@
+{"name":"camel-exchange","version":"1.0.0","private":true,"type":"module","description":"Two-camel multiplayer barrier-options trading game","scripts":{"start":"node server.js","test":"node --test"},"engines":{"node":">=22"},"dependencies":{"ws":"^8.18.0"}}
